@@ -60,5 +60,6 @@ function App() {
         </div>
     );
 }
+require("dotenv").config();
 
 export default App;
